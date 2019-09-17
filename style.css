@@ -51,6 +51,8 @@ body {
 main img {
     width: 25%;
     height: 25%;
+    min-width: 300px;
+    min-height: auto;
 }
 .button {
     text-align: center;

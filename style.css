@@ -80,3 +80,6 @@ input[type="text"] {
     box-sizing: border-box;
     width: 70%;
 }
+.desc {
+    margin: 5px;
+}
